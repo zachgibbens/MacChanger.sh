@@ -1,1 +1,3 @@
-My MACChanger.sh script
+# MacChanger.sh
+#
+My MacChanger.sh script
